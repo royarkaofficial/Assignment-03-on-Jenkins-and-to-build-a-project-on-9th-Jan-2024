@@ -1,0 +1,7 @@
+D:\Phase 4\Day-3\Assignment_on_Jenkins\bin\Debug\Assignment_on_Jenkins.exe.config
+D:\Phase 4\Day-3\Assignment_on_Jenkins\bin\Debug\Assignment_on_Jenkins.exe
+D:\Phase 4\Day-3\Assignment_on_Jenkins\bin\Debug\Assignment_on_Jenkins.pdb
+D:\Phase 4\Day-3\Assignment_on_Jenkins\obj\Debug\Assignment_on_Jenkins.csproj.AssemblyReference.cache
+D:\Phase 4\Day-3\Assignment_on_Jenkins\obj\Debug\Assignment_on_Jenkins.csproj.CoreCompileInputs.cache
+D:\Phase 4\Day-3\Assignment_on_Jenkins\obj\Debug\Assignment_on_Jenkins.exe
+D:\Phase 4\Day-3\Assignment_on_Jenkins\obj\Debug\Assignment_on_Jenkins.pdb
